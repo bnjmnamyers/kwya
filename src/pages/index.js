@@ -6,8 +6,6 @@ import Seo from "../components/seo"
 
 import KWYALogo from "../components/SVGs/kwyaLogo"
 
-import Boom from "../components/SVGs/boom"
-
 const IndexStyled = styled.div`
   display: flex;
   align-items: center;
